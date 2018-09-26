@@ -1,7 +1,5 @@
 version: '2'
 
 services:
-  solitaire:
+  cprogram:
     build: .
-    ports:
-      - 3000:80
